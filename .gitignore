@@ -1,0 +1,3 @@
+# Dear Git, please ignore the following
+node_modules
+client/build/*
